@@ -7,6 +7,9 @@ body {
 	align-items: center;
 	padding: 0;
   }
+  .nav-btns button{
+	cursor: pointer;
+  }
   .lock {
 	overflow: hidden;
   }
@@ -90,6 +93,9 @@ body {
   .dropdown {
 	position: relative;
 	display: inline-block;
+  }
+  .dropbtn{
+	cursor: pointer;
   }
   .dropdown-content {
 	border-radius: 10px;
